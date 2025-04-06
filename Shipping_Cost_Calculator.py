@@ -1,4 +1,4 @@
- # Here is a new update by ashmorel
+# Here is a new update by ashmorel
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
